@@ -1,3 +1,16 @@
+# 写在前面
+> 感谢原作在git上分享的自动编号插件，因个人需要，在这基础上，我添加了一个功能，自定义标题起始编号。  
+> - 可通过两个选项实现：  
+>   - 1是自定义起始数字编号；  
+>   - 2是通过文本中第一次出现“# 3.”这样的数字去自动获取起始编号。  
+>
+> 原作地址：    
+> markdown-index - Visual Studio Marketplace  
+> https://marketplace.visualstudio.com/items?itemName=legendmohe.markdown-index
+
+使用说明如图：  
+![](https://github.com/wan230114/markdown_index/blob/master/vid.gif?raw=true)
+
 # MarkdownIndex
 
 UPDATE 2019/11/5: 
