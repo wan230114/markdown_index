@@ -2,7 +2,7 @@
     "name": "markdown-index-pro",
     "displayName": "markdown-index pro",
     "description": "add index automatically to your titie",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "publisher": "ChenJun",
     "engines": {
         "vscode": "^1.13.0"

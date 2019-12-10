@@ -8,8 +8,10 @@
 > markdown-index - Visual Studio Marketplace  
 > https://marketplace.visualstudio.com/items?itemName=legendmohe.markdown-index
 
-使用说明如图：  
-![](https://github.com/wan230114/markdown_index/blob/master/vid.gif?raw=true)
+使用说明：  
+<!-- ![](https://img-blog.csdnimg.cn/20191210171005295.gif) -->
+
+<img src="https://img-blog.csdnimg.cn/20191210171005295.gif" width="800">
 
 # MarkdownIndex
 
